@@ -1,0 +1,6 @@
+campaign_id,campaign_name,start_date,end_date,channel
+C1,Summer Sale,2023-05-01,2023-06-01,Email
+C2,Facebook Boost,2023-05-10,2023-06-05,Social
+C3,App Push,2023-05-15,2023-05-30,Push
+C4,Diwali Blast,2023-10-15,2023-11-15,Email
+C5,New Year Promo,2023-12-20,2024-01-10,Social
