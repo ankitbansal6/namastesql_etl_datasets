@@ -3,6 +3,7 @@ ip_address,url,event_timestamp,response_code,device_type
 10.0.0.1,/cart,2024-01-01 08:06:00,503,smart_tv
 10.0.0.1,/checkout,2024-01-01 08:07:00,500,desktop
 10.0.0.1,/checkout,2024-01-01 08:08:00,999,smart_tv
+10.0.0.1,/checkout,2024-01-01 08:08:00,999,mobile
 10.0.0.1,/profile,2024-01-01 08:11:00,302,console
 10.0.0.1,/contact,2024-01-01 08:16:00,503,desktop
 10.0.0.1,/product,2024-01-01 08:19:00,800,smart_tv
@@ -43,6 +44,7 @@ ip_address,url,event_timestamp,response_code,device_type
 10.0.0.2,/search,2024-01-01 09:35:00,404,mobile
 10.0.0.2,/product,2024-01-01 09:36:00,200,smart_tv
 10.0.0.2,/checkout,2024-01-01 09:40:00,200,desktop
+10.0.0.2,/checkout,2024-01-01 09:40:00,200,mobile
 10.0.0.2,/offers,2024-01-01 09:43:00,302,mobile
 10.0.0.2,/checkout,2024-01-01 09:48:00,301,smart_tv
 10.0.0.2,/contact,2024-01-01 09:50:00,503,desktop
@@ -599,3 +601,4 @@ ip_address,url,event_timestamp,response_code,device_type
 10.0.0.14,/support,2024-01-01 11:08:00,301,desktop
 10.0.0.14,/profile,2024-01-01 11:12:00,501,tablet
 10.0.0.14,/offers,2024-01-01 11:18:00,999,desktop
+10.0.0.14,/offers,2024-01-01 11:18:00,999,mobile
