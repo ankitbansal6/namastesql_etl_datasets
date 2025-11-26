@@ -1,6 +1,6 @@
 order_id,product_id,quantity,order_date,region
 1,P8,4,2023-05-21,Central
-2,P7,4,2023-12-12,South
+2,P7,,2023-12-12,South
 2,P15,5,2023-05-02,North
 3,P5,4,2023-07-03,West
 3,P13,2,2023-10-07,South
